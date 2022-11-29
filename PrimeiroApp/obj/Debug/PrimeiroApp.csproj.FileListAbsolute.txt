@@ -1,0 +1,12 @@
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.Form1.resources
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimeiroPrograma.resources
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\ProjetoTI106-App\PrimeiroApp\obj\Debug\PrimeiroApp.FrmLogin.resources
